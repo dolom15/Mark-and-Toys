@@ -1,1 +1,1 @@
-# Mark-and-Toys
+# Mark-and-Toys This code calculates the maximum number of toys that can be bought without exceeding a budget `k` by first sorting the prices and then greedily adding the cheapest toys until the budget is reached. It returns the total count of toys purchased within the budget.
